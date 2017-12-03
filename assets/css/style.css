@@ -167,3 +167,18 @@ h2 {
 	 background-color: #f1f1f1;
 	 outline: none;
 }
+
+#footer {
+/*	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;*/
+	height: 80px;
+	background-color: #666666;
+	border-top: solid 5px #4aaaa5;
+	text-align: center;
+	color: #dddfe1;
+	font-size: 12px;
+	line-height: 80px;
+	z-index: 1;
+}
